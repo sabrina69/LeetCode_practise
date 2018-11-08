@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;medium.M94_BinaryTreeInorderTraversal&apos; to &apos;M46_Permutations&apos;&#x0A;- Original project: &apos;LeetCode&apos;&#x0A;- Original element: &apos;medium.M94_BinaryTreeInorderTraversal&apos;&#x0A;- Renamed element: &apos;medium.M46_Permutations&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;M94_BinaryTreeInorderTraversal&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;medium{M94_BinaryTreeInorderTraversal.java[M94_BinaryTreeInorderTraversal" matchStrategy="1" name="M46_Permutations" qualified="false" references="true" similarDeclarations="false" stamp="1541663183987" textual="false" version="1.0"/>
+</session>
